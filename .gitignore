@@ -1,0 +1,17 @@
+# Java 编译文件
+**/target/
+**/*.class
+**/.idea/
+**/*.iml
+
+# Python 环境与模型
+**/__pycache__/
+**/*.pyc
+**/.env
+**/venv/
+**/*.bin
+**/clip-vit-base-patch16/
+
+# 前端打包文件
+**/node_modules/
+**/dist/
